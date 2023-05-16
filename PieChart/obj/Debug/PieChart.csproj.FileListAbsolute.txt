@@ -1,0 +1,11 @@
+C:\Users\Adam\Source\Repos\csharp-test-round1\PieChart\bin\Debug\PieChart.exe.config
+C:\Users\Adam\Source\Repos\csharp-test-round1\PieChart\bin\Debug\PieChart.exe
+C:\Users\Adam\Source\Repos\csharp-test-round1\PieChart\bin\Debug\PieChart.pdb
+C:\Users\Adam\Source\Repos\csharp-test-round1\PieChart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adam\Source\Repos\csharp-test-round1\PieChart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adam\Source\Repos\csharp-test-round1\PieChart\obj\Debug\PieChart.csproj.AssemblyReference.cache
+C:\Users\Adam\Source\Repos\csharp-test-round1\PieChart\obj\Debug\PieChart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adam\Source\Repos\csharp-test-round1\PieChart\obj\Debug\PieChart.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Source\Repos\csharp-test-round1\PieChart\obj\Debug\PieChart.csproj.CopyComplete
+C:\Users\Adam\Source\Repos\csharp-test-round1\PieChart\obj\Debug\PieChart.exe
+C:\Users\Adam\Source\Repos\csharp-test-round1\PieChart\obj\Debug\PieChart.pdb
