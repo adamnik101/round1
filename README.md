@@ -2,24 +2,21 @@
 
 Solution done with ASP.NET Core Web API and Angular.
 
-
-
 ## Installation & configuration
 
-Run if needed
-
+Start ASP.NET application
 ```bash
-  cd RareCrewAngularAPP
-  npm install
+  cd RareCrew.API
+  dotnet run
 ```
 Start Angular application
 ```bash
   ng serve
 ```
-Start ASP.NET application
+Run if needed
 ```bash
-  cd RareCrew.API
-  dotnet run
+  cd RareCrewAngularAPP
+  npm install
 ```
 ## Configure ports
 
@@ -31,4 +28,5 @@ ASP.NET Core Web API
 ```bash
   appsettings.json
 ```
-
+# Pie chart
+Run program after starting API
