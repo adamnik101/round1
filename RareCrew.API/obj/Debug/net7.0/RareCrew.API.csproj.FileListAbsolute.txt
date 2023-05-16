@@ -1,0 +1,102 @@
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\bin\Debug\net7.0\RareCrew.API.exe
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\bin\Debug\net7.0\RareCrew.API.deps.json
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\bin\Debug\net7.0\RareCrew.API.runtimeconfig.json
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\bin\Debug\net7.0\RareCrew.API.dll
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\bin\Debug\net7.0\RareCrew.API.pdb
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\RareCrew.API.csproj.AssemblyReference.cache
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\RareCrew.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\RareCrew.API.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\RareCrew.API.AssemblyInfo.cs
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\RareCrew.API.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\RareCrew.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\RareCrew.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\staticwebassets\msbuild.RareCrew.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\staticwebassets\msbuild.build.RareCrew.API.props
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RareCrew.API.props
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RareCrew.API.props
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\scopedcss\bundle\RareCrew.API.styles.css
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\RareCrew.API.csproj.CopyComplete
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\RareCrew.API.dll
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\refint\RareCrew.API.dll
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\RareCrew.API.pdb
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\RareCrew.API.genruntimeconfig.cache
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\obj\Debug\net7.0\ref\RareCrew.API.dll
+C:\Users\Adam\Desktop\RareCrew Round 1\RareCrew.API\RareCrew.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\bin\Debug\net7.0\RareCrew.API.exe
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\bin\Debug\net7.0\RareCrew.API.deps.json
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\bin\Debug\net7.0\RareCrew.API.runtimeconfig.json
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\bin\Debug\net7.0\RareCrew.API.dll
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\bin\Debug\net7.0\RareCrew.API.pdb
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\RareCrew.API.csproj.AssemblyReference.cache
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\RareCrew.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\RareCrew.API.AssemblyInfoInputs.cache
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\RareCrew.API.AssemblyInfo.cs
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\RareCrew.API.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\RareCrew.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\RareCrew.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\staticwebassets\msbuild.RareCrew.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\staticwebassets\msbuild.build.RareCrew.API.props
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RareCrew.API.props
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RareCrew.API.props
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\scopedcss\bundle\RareCrew.API.styles.css
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\RareCrew.API.csproj.CopyComplete
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\RareCrew.API.dll
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\refint\RareCrew.API.dll
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\RareCrew.API.pdb
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\RareCrew.API.genruntimeconfig.cache
+C:\Users\Adam\Downloads\application_round_1-master\application_round_1-master\RareCrew.API\obj\Debug\net7.0\ref\RareCrew.API.dll
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\bin\Debug\net7.0\RareCrew.API.exe
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\bin\Debug\net7.0\RareCrew.API.deps.json
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\bin\Debug\net7.0\RareCrew.API.runtimeconfig.json
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\bin\Debug\net7.0\RareCrew.API.dll
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\bin\Debug\net7.0\RareCrew.API.pdb
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\RareCrew.API.csproj.AssemblyReference.cache
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\RareCrew.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\RareCrew.API.AssemblyInfoInputs.cache
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\RareCrew.API.AssemblyInfo.cs
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\RareCrew.API.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\RareCrew.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\RareCrew.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\staticwebassets\msbuild.RareCrew.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\staticwebassets\msbuild.build.RareCrew.API.props
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RareCrew.API.props
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RareCrew.API.props
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\scopedcss\bundle\RareCrew.API.styles.css
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\RareCrew.API.csproj.CopyComplete
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\RareCrew.API.dll
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\refint\RareCrew.API.dll
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\RareCrew.API.pdb
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\RareCrew.API.genruntimeconfig.cache
+C:\Users\Adam\Source\Repos\csharp-test-round1\RareCrew.API\obj\Debug\net7.0\ref\RareCrew.API.dll
